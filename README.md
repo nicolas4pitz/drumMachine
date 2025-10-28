@@ -36,7 +36,7 @@ npm run dev
 
 ## 🛠️ Built With
 
-- React
+- Svelte
 - Vite
 
 ## 📄 License
