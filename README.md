@@ -1,6 +1,6 @@
 # Drum Machine
 
-A simple markdown previwer
+A simple drum machine
 
 [live web page](https://nicolas4pitz-drum-machine.netlify.app/)
 
