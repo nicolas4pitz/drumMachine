@@ -37,7 +37,6 @@
     const key = e.key.toUpperCase();
     const pad = pads.find(p => p.key === key);
     if (pad) {
-      // US #6: pressionar tecla aciona o pad correspondente
       playPad(pad);
     }
   }
@@ -139,7 +138,6 @@
     outline: 3px solid #99f;
   }
 
-  /* estilos do audio invisível */
   .clip {
     display: none;
   }
