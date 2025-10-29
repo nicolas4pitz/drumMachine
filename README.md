@@ -28,12 +28,6 @@ npm install
 npm run dev
 ```
 
-## 📝 Features
-
-- Markdown editor
-- Responsive design
-- Clean and modern UI
-
 ## 🛠️ Built With
 
 - Svelte
